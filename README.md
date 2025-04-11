@@ -47,5 +47,5 @@ Show tag details:- git show <tagname>
 3.2 Remotely:- git ls-remote --tags origin
 
 # Add an image in the README.md file.
-Remote Image: ![alt text](https://images.app.goo.gl/AZMrg1wByBou4YfF7)
+![My Image](images/img.jpg)
 
